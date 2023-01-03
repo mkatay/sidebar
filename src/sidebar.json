@@ -1,0 +1,33 @@
+{"sidebar":[
+    {
+       "id":1,
+        "name":"Stopwatch",
+        "component":"Stopwatch"
+    },
+    {
+        "id":2,
+         "name":"Todo",
+         "component":"Todo"
+     },
+     {
+        "id":3,
+         "name":"Reminder",
+         "component":"Reminder"
+     },
+     {
+        "id":4,
+         "name":"About me",
+         "component":"About"
+     },
+     {
+        "id":5,
+         "name":"Contact" ,
+         "component":"Contact"
+     },
+     {
+        "id":6,
+         "name":"Home" ,
+         "component":"Home"
+     }
+]
+}
