@@ -1,0 +1,13 @@
+.btn-container {
+cursor:pointer;
+height: 50px;
+width: 70px;
+background-color: #6DFC6B;
+color:#305170;
+border-radius: 10px;
+border:2px solid #54c352;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: 600;
+}
